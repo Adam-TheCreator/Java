@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 6: Making decisions with if.
 
 void main() {

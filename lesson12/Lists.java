@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 12: Arrays hold a list of things in one box.
 
 void main() {

@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 11: Methods that hand back an answer.
 
 int potionPrice(int size) {

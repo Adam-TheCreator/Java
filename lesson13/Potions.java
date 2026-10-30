@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 13: Classes let you make your own type of box.
 
 class Potion {

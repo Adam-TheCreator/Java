@@ -1,3 +1,4 @@
+// Written by Adam
 //This program is to aska nd collect data, potetially storing it as well.
 
 void main() {

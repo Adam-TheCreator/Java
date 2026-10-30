@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 8: The for loop, a shortcut for counting.
 
 void main() {

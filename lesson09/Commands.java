@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 9: Making your own commands (methods).
 
 void greet() {

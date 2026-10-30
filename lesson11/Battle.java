@@ -1,3 +1,4 @@
+// Written by Adam
 //using methods to have a goblin battle
 
 int totalHealth(int health, int level) {

@@ -1,3 +1,4 @@
+// Written by Adam
 //Showing off what i have learned, all code done without help. 
 //A hero walks into a potion shop, buys potions, and then drinks them to heal.
 

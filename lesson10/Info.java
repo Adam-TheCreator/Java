@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 10: Giving methods information.
 
 void greet(String name) {

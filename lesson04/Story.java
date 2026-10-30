@@ -1,3 +1,4 @@
+// Written by Adam
 //making stry with inputs
 
 void main() {

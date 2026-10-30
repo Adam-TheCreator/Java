@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 5: Turning typed answers into real numbers.
 
 void main() {

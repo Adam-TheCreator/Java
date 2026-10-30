@@ -1,3 +1,4 @@
+// Written by Claude
 // Lesson 7: Loops repeat things.
 
 void main() {
