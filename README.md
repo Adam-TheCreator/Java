@@ -7,7 +7,7 @@
 This repo is my record of learning Java with no programming experience. Each lesson is one small idea in its own folder, followed by exercises and bigger projects that put the ideas together.
 
 <p align="center">
-  <img src="assets/roadmap.svg" alt="Roadmap of 13 lessons, from printing to classes" width="100%">
+  <img src="assets/roadmap.svg" alt="Roadmap of 16 lessons, from printing to reading files" width="100%">
 </p>
 
 ## Lessons
@@ -27,15 +27,19 @@ This repo is my record of learning Java with no programming experience. Each les
 | 11 | Methods that `return` an answer | [Answers](lesson11/Answers.java) | [Battle](lesson11/Battle.java) |
 | 12 | Arrays | [Lists](lesson12/Lists.java) | [Parade](lesson12/Parade.java) |
 | 13 | Classes and objects | [Potions](lesson13/Potions.java) | [Monsters](lesson13/Monsters.java) |
+| 14 | Methods inside a class | [Healing](lesson14/Healing.java) | [Dojo](lesson14/Dojo.java) |
+| 15 | Class methods that take values and hand them back | [Healer](lesson15/Healer.java) | [Arena](lesson15/Arena.java) |
+| 16 | Reading real files | [FileStats](lesson16/FileStats.java) | [Search](lesson16/Search.java), [Notes](lesson16/Notes.java) |
 
 ## Projects
 
 <p align="center">
-  <img src="assets/projects.svg" alt="Potion Shop is finished and Dungeon Run is in progress" width="100%">
+  <img src="assets/projects.svg" alt="Potion Shop and Dungeon Run are finished, and Monster Breeder is in progress" width="100%">
 </p>
 
 - **[Potion Shop](project/project_01/project_01.java):** my first project that combined the early lessons.
-- **[Dungeon Run](project/project_02/Dungeon.java):** the fighting works. I still plan to add a gold total, a rank at the end, and methods for the fight and hit power.
+- **[Dungeon Run](project/project_02/Dungeon.java):** fight or flee three monsters, then get a gold total and a rank. Hit power and the fight each have their own method.
+- **[Monster Breeder](project/project_03/MonsterSpawn.java):** my first project from a blank file. Pick two monsters to combine, and one method works out the result while another reacts to it.
 
 <p align="center">
   <img src="assets/dungeon-loop.svg" alt="A for loop over the monsters holds a while loop for one fight, which asks attack or run" width="100%">
@@ -48,9 +52,12 @@ You need JDK 25 or newer, because these files use Java's short `void main()` sty
 ```
 java lesson01/Hello.java
 java project/project_02/Dungeon.java
+java lesson16/Search.java
 ```
+
+`Search` and `Notes` work on real files. Give them a path from this folder, like `lesson14/Dojo.java`.
 
 ## What's next
 
-- Finish Dungeon Run
-- Lesson 14: methods inside a class
+- Lesson 17: writing to files
+- Keep building Monster Breeder
