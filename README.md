@@ -7,7 +7,7 @@
 This repo is my record of learning Java with no programming experience. Each lesson is one small idea in its own folder, followed by exercises and bigger projects that put the ideas together.
 
 <p align="center">
-  <img src="assets/roadmap.svg" alt="Roadmap of 16 lessons, from printing to reading files" width="100%">
+  <img src="assets/roadmap.svg" alt="Roadmap of 20 lessons, from printing to making my own exceptions" width="100%">
 </p>
 
 ## Lessons
@@ -30,6 +30,12 @@ This repo is my record of learning Java with no programming experience. Each les
 | 14 | Methods inside a class | [Healing](lesson14/Healing.java) | [Dojo](lesson14/Dojo.java) |
 | 15 | Class methods that take values and hand them back | [Healer](lesson15/Healer.java) | [Arena](lesson15/Arena.java) |
 | 16 | Reading real files | [FileStats](lesson16/FileStats.java) | [Search](lesson16/Search.java), [Notes](lesson16/Notes.java) |
+| 17 | Writing to a file | [SaveNote](lesson17/SaveNote.java) | |
+| 18 | `try` / `catch` | [Age](lesson18/Age.java) | [SafeOpen](lesson18/SafeOpen.java) |
+| 19 | `.split`, `.trim` and `switch` | [Schedule](lesson19/Schedule.java) | [Grade](lesson19/Grade.java) |
+| 20 | Making my own exceptions | [AgeCheck](lesson20/AgeCheck.java) | [GradeCheck](lesson20/GradeCheck.java) |
+
+**Review:** [login](review/login.java) is a password lock I wrote from a blank file, with no examples, to test the basics.
 
 ## Projects
 
@@ -59,5 +65,8 @@ java lesson16/Search.java
 
 ## What's next
 
-- Lesson 17: writing to files
+Getting ready for my first Java exam:
+
+- Lesson 21: `Scanner` and the classic `public static void main` style
+- A date converter, a sentence file editor, and shapes with inheritance
 - Keep building Monster Breeder
